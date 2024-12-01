@@ -1,0 +1,3 @@
+# Framework Comparison
+
+This repository contains a comparative setup for testing two different frameworks, agent-builder (in TypeScript) and langchain (in Python), using [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/). Each implementation aims to classify movie reviews as either positive or negative and generate relevant tags. The goal is to compare the performance and ease of use of these frameworks.  
